@@ -1,0 +1,56 @@
+/* styles/CreateGame.module.css */
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .label {
+    display: block;
+    font-size: 1.2rem;
+    margin: 15px 0;
+    color: #555;
+  }
+  
+  .inputColor {
+    padding: 0px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #ecf0f1;
+    outline: none;
+  }
+  
+  .inputColor:focus {
+    box-shadow: 0 0 5px rgb(24, 40, 50);
+  }
+  
+  /* Style for the color picker */
+  .colorPicker {
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .select {
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #2c485b;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #2e86c1;
+  }

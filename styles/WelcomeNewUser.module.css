@@ -1,0 +1,46 @@
+/* styles/WelcomeNewUser.module.css */
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 250px;
+  }
+  
+  .title {
+    font-size: 3rem;
+    margin-bottom: 30px;
+  }
+  
+  .label {
+    display: block;
+    margin-top: 50px;
+    font-size: 1.2rem;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    padding-left: 20px;
+    margin-top: 25px;
+    font-size: 1rem;
+    border-radius: 25px;
+
+  }
+  
+  .button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: rgb(25, 100, 25);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #2980b9;
+  }
+  

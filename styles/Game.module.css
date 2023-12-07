@@ -1,0 +1,83 @@
+/* styles/Game.module.css */
+
+.gameContainer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.boardRow {
+  /* display: flex; */
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+}
+
+.square {
+  background-color: var(--background-color);
+  width: 120px;
+  height: 120px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  box-sizing: border-box;
+  border-radius: 10px;
+
+}
+
+.square:hover {
+  background-color: #e0e0e0;
+}
+
+.square.X {
+  color: #6e95af;
+  box-shadow: 2px 2px 5px rgba(120, 137, 148, 0.8); /* Add a subtle shadow effect */
+  transition: box-shadow 0.3s; /* Add transition for smooth effect */
+}
+
+.square.X:hover {
+  box-shadow: 4px 4px 10px rgba(195, 181, 34, 0.8); /* Adjusted shadow on hover */
+  transform: rotate(45deg); /* Rotate the X on hover */
+}
+
+.square.O {
+  color: #7a5b57;
+  box-shadow: 0 0 10px rgba(139, 111, 108, 0.8); /* Add a subtle shadow effect */
+  transition: box-shadow 0.3s; /* Add transition for smooth effect */
+  animation: pulse 1s infinite; /* Add a pulse animation */
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 10px rgba(151, 151, 151, 0.8);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(236, 236, 236, 0.8);
+  }
+  100% {
+    box-shadow: 0 0 10px rgba(57, 51, 51, 0.8);
+  }
+}
+
+.status {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.gameOverContainer {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.gameOverContainer p {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.gameOverContainer button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-right: 10px;
+}

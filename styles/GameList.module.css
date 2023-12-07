@@ -1,0 +1,33 @@
+/* styles/GameList.module.css */
+
+.container {
+  padding: 20px;
+}
+
+.title {
+  color: rgb(37, 156, 69);
+}
+
+.userHistory {
+  margin-bottom: 20px;
+}
+
+.userHistoryTitle {
+  color: #2c78a1;
+}
+
+.gameTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.tableCell {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.tableHeader {
+  background-color: #f2f2f2;
+}

@@ -1,0 +1,648 @@
+{
+  "users": [
+    {
+      "name": "Dilara",
+      "registerDate": "2023-12-05T20:06:39.314Z",
+      "previousGames": [
+        {
+          "opponent": "AI",
+          "winner": "AI",
+          "result": "O",
+          "date": "2023-12-07T03:09:32.757Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T06:13:06.916Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-07T06:13:25.628Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-07T06:22:28.610Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-07T06:22:48.452Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "AI",
+          "result": "O",
+          "date": "2023-12-07T06:22:55.890Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T06:23:02.665Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T06:23:08.354Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T06:23:12.576Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T06:49:07.449Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T06:51:40.217Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T10:37:17.599Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T12:07:36.359Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T12:11:07.923Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T13:38:51.633Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T16:06:55.292Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T16:08:13.835Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T17:27:13.207Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "O",
+          "date": "2023-12-07T17:48:56.673Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T17:50:23.587Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-07T17:54:38.155Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-07T17:54:40.412Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "O",
+          "date": "2023-12-07T18:02:20.444Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T18:29:01.079Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "AI",
+          "result": "O",
+          "date": "2023-12-07T18:34:11.788Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T18:35:20.928Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T18:40:09.506Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T19:36:46.463Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dilara",
+          "result": "X",
+          "date": "2023-12-07T19:41:10.678Z"
+        }
+      ]
+    },
+    
+    {
+      "name": "Musab",
+      "registerDate": "2023-12-06T09:57:02.908Z",
+      "previousGames": [
+        
+        {
+          "opponent": "AI",
+          "winner": "Musab",
+          "result": "X",
+          "date": "2023-12-06T16:07:07.131Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Musab",
+          "result": "X",
+          "date": "2023-12-06T16:10:20.175Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "AI",
+          "result": "O",
+          "date": "2023-12-06T16:15:14.214Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Musab",
+          "result": "X",
+          "date": "2023-12-06T17:52:15.823Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-06T17:52:26.002Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Musab",
+          "result": "X",
+          "date": "2023-12-06T18:24:12.571Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Musab",
+          "result": "X",
+          "date": "2023-12-06T18:24:54.112Z"
+        }
+      ]
+    },
+    {
+      "name": "Dila",
+      "registerDate": "2023-12-06T11:34:09.049Z",
+      "previousGames": [
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T16:16:33.378Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T16:18:37.416Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T16:20:00.716Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-06T16:20:48.986Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T16:21:30.781Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "AI",
+          "result": "O",
+          "date": "2023-12-06T16:21:39.524Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T16:53:26.178Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "AI",
+          "result": "O",
+          "date": "2023-12-06T17:17:20.472Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T17:17:36.220Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T17:17:41.054Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "AI",
+          "result": "O",
+          "date": "2023-12-06T17:17:52.913Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T17:18:06.133Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-06T17:18:15.895Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T17:19:53.885Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-06T17:20:06.359Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-06T17:21:06.891Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-06T17:22:30.945Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T17:22:40.604Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T17:57:22.001Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-06T17:57:33.826Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T18:01:05.891Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T18:01:14.525Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-06T18:01:29.439Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-06T18:03:46.260Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-06T18:04:53.757Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T18:14:19.157Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T18:14:57.598Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Dila",
+          "result": "X",
+          "date": "2023-12-06T23:09:26.082Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-06T23:12:41.505Z"
+        }
+      ]
+    },
+    {
+      "name": "mamut",
+      "registerDate": "2023-12-06T19:01:27.056Z",
+      "previousGames": [
+        {
+          "opponent": "AI",
+          "winner": "mamut",
+          "result": "X",
+          "date": "2023-12-06T21:26:11.781Z"
+        }
+      ]
+    },
+    {
+      "name": "Samet",
+      "registerDate": "2023-12-06T23:49:26.584Z",
+      "previousGames": [
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-06T23:49:48.014Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Samet",
+          "result": "X",
+          "date": "2023-12-07T00:00:08.788Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Samet",
+          "result": "X",
+          "date": "2023-12-07T00:03:52.363Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Samet",
+          "result": "X",
+          "date": "2023-12-07T00:07:46.587Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-07T00:08:56.145Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Samet",
+          "result": "X",
+          "date": "2023-12-07T00:09:03.303Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Samet",
+          "result": "X",
+          "date": "2023-12-07T00:10:06.026Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Samet",
+          "result": "X",
+          "date": "2023-12-07T00:11:50.863Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Samet",
+          "result": "X",
+          "date": "2023-12-07T00:12:08.246Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Samet",
+          "result": "X",
+          "date": "2023-12-07T00:14:10.566Z"
+        }
+      ]
+    },
+    {
+      "name": "Talha",
+      "registerDate": "2023-12-07T00:16:32.745Z",
+      "previousGames": [
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-07T00:16:49.347Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T00:16:55.372Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T00:25:47.244Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T00:25:51.801Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-07T01:32:08.007Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T01:32:13.231Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T01:41:45.032Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T01:42:19.919Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-07T01:47:12.055Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "AI",
+          "result": "O",
+          "date": "2023-12-07T01:49:37.750Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T01:49:54.092Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T01:52:43.534Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "AI",
+          "result": "O",
+          "date": "2023-12-07T01:54:13.446Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "AI",
+          "result": "O",
+          "date": "2023-12-07T01:59:18.453Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T01:59:22.420Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T02:01:41.416Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T02:04:26.680Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T02:06:01.508Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T02:06:31.709Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T02:08:21.316Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T02:27:41.210Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T02:27:55.084Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "No one",
+          "result": "Draw",
+          "date": "2023-12-07T02:36:14.115Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "Talha",
+          "result": "X",
+          "date": "2023-12-07T02:36:19.418Z"
+        },
+        {
+          "opponent": "AI",
+          "winner": "AI",
+          "result": "O",
+          "date": "2023-12-07T02:36:26.813Z"
+        }
+      ]
+    }
+  ]
+}

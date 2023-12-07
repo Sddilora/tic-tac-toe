@@ -1,0 +1,31 @@
+{
+  "browser": {
+    "fs": false,
+    "path": false
+  },
+  "name": "tic-tac-toe",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "axios": "^1.6.2",
+    "fs": "^0.0.1-security",
+    "next": "14.0.3",
+    "next-cookies": "^2.0.3",
+    "nookies": "^2.5.2",
+    "openai": "^4.20.1",
+    "path": "^0.12.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "14.0.3"
+  }
+}

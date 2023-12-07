@@ -1,0 +1,46 @@
+/* styles/WelcomeExistingUser.module.css */
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 250px;
+  }
+  
+  .title {
+    font-size: 3rem;
+    margin-bottom: 30px;
+    color: rgb(48, 150, 170);
+  }
+  
+  .button {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    padding: 10px 20px;
+    font-size: 0.8rem;
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #c0392b;
+  }
+  
+  .link {
+    display: block;
+    margin-top: 20px;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: rgb(25, 100, 25);
+    -webkit-text-fill-color: dimgrey;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
