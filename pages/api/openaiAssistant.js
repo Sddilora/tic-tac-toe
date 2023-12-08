@@ -6,7 +6,7 @@ import OpenAI from 'openai';
  * @type {OpenAI}
  */
 const openai = new OpenAI({
-  apiKey: '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',
+  apiKey: '<YOUR_API_KEY',
   dangerouslyAllowBrowser: true,
 });
 
@@ -46,7 +46,7 @@ export default async function handler(req, res) {
     const run = await openai.beta.threads.runs.create(
       threadId,
       {
-        assistant_id: 'asst_NKhTpfePD4SYOL2cyOj8ZQH4',
+        assistant_id: '<YOUR_ASSISTANT_ID',
         instructions: "You are a Tic Tac Toe assistant. You are the most professional Tic Tac Toe player in the world. You have a perfect strategy. Let's play Tic Tac Toe on a 3x3 or 4x4 or 5x5 board. We will play the game in array format ['', '', '', '', '', '', '', '', ''] or ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''] or ['', '', '', '', '', '', '', '', '','', '', '', '', '', '', '', '', '','', '', '', '', '', '', '']. Write your move in the array that I send you, and when you are ready, send it back to me. Let's start. Provide your answers only as an array (I know you are a text-based artificial intelligence, so let's play this game text-based) and never send me any data expect your answer!",
       }
     );
