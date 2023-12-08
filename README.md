@@ -12,6 +12,12 @@ Welcome to the TicTacToe with ChatGPT Opponent project! This Next.js 12 applicat
 
 - **Interactive Gameplay:** Enjoy a seamless and interactive TicTacToe gaming experience against an intelligent AI opponent.
 
+## **Requirements**
+
+* npm (Node Package Manager)
+* Node.js
+* ChatGPT assistant ( **Model:** gpt-4-1106-preview )
+
 ## Getting Started
 
 To run the project locally, follow these steps:
@@ -24,15 +30,20 @@ git clone https://github.com/your-username/tictactoe-chatgpt.git
 
 ```bash
 cd tictactoe-chatgpt
-Install dependencies:
 ```
 
-3. Install dependencies:
+3. Create .env file in the projects root directory:
+```dotenv
+OPENAI_API_KEY=Your_api_key
+ASSISTANT_ID=Your_assistant_id
+```
+
+4. Install dependencies:
 ```bash
 npm install
 Start the development server:
 ```
-4. Start the development server:
+5. Start the development server:
 ```bash
 npm run dev
 ```
