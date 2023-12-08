@@ -29,7 +29,7 @@ git clone https://github.com/your-username/tictactoe-chatgpt.git
 2. Navigate to the project directory:
 
 ```bash
-cd tictactoe-chatgpt
+cd tic-tac-toe
 ```
 
 3. Create .env file in the projects root directory:
