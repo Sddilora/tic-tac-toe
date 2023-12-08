@@ -32,7 +32,7 @@ git clone https://github.com/your-username/tictactoe-chatgpt.git
 cd tic-tac-toe
 ```
 
-3. Create .env file in the projects root directory:
+3. Create .env file with the followings in the projects root directory:
 ```dotenv
 OPENAI_API_KEY=Your_api_key
 ASSISTANT_ID=Your_assistant_id
