@@ -41,7 +41,6 @@ ASSISTANT_ID=Your_assistant_id
 4. Install dependencies:
 ```bash
 npm install
-Start the development server:
 ```
 5. Start the development server:
 ```bash
